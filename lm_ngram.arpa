@@ -1,0 +1,56 @@
+\data\
+ngram 1=5000
+ngram 2=2821547
+ngram 3=8095821
+
+\1-grams:
+-2.1582\t</s>\1</s>\t0.0000
+-99.0000\t<s>\1<s>\t-0.5514
+-2.3206\t梦薇\1meng wei\t-1.2083
+-3.5713\t姐姐\1jie jie\t-0.2188
+-6.0849\t好想\1hao xiang\t-0.1783
+-4.1702\t想\1xiang\t-0.7176
+-4.2791\t梦薇姐姐\1meng wei jie jie\t-0.3945
+-4.2791\t我\1wo\t-0.3945
+-6.0849\t好想梦薇姐姐\1hao xiang meng wei jie jie\t-0.1783
+-6.0849\t好像梦薇姐姐\1hao xiang meng wei jie jie\t-0.1783
+-4.0412\t我好想梦薇\1wo hao xiang meng wei\t-0.4899
+-4.2222\t我好想姐姐\1wo hao xiang jie jie\t-0.4009
+-4.2222\t我好想解解\1wo hao xiang jie jie\t-0.4009
+
+\2-grams:
+-2.7096\t<s> </s>\1</s>\t0.0000
+-1.6732\t<s> 我\1<s>wo\t-0.3962
+-3.1514\t<s> 想\1<s> xiang\t-0.8741
+-4.7140\t<s> 好想\1<s> hao xiang\t-0.2532
+-4.7216\t<s> 梦薇\1<s> meng wei\t-0.1107
+-4.0730\t<s> 姐姐\1<s> jie jie\t-0.4370
+-4.5219\t<s> 梦薇姐姐\1<s> meng wei jie jie\t-0.4898
+-4.3218\t我 好想\1wo hao xiang\t-0.2244
+-3.8105\t好想 梦薇姐姐\1hao xiang meng wei jie jie\t-1.2893
+-3.8105\t好想 梦薇姐接\1hao xiang meng wei jie jie\t-1.2893
+-3.8105\t好像 梦薇姐接\1hao xiang meng wei jie jie\t-1.2893
+-4.8471\t梦薇 姐姐\1meng wei jie jie\t-0.5099
+-5.1267\t我想 梦薇姐姐\1wo xiang meng wei jie jie\t0.0000
+-4.0412\t我好想 梦薇\1wo hao xiang meng wei\t-0.4899
+-4.2222\t我好想 姐姐\1wo hao xiang jie jie\t-0.4009
+-4.2222\t我好想 解解\1wo hao xiang jie jie\t-0.4009
+-4.2472\t梦薇 解解\1meng wei jie jie\t-0.0499
+-4.2472\t梦薇 接接\1meng wei jie jie\t-0.0499
+-4.2472\t梦薇 解姐\1meng wei jie jie\t-0.0499
+-4.2472\t解 解\1jie jie\t-0.0499
+
+\3-grams:
+-3.3369\t<s> 我 想\1<s> wo xiang
+-4.3047\t<s> 我想 梦薇\1<s> wo xiang meng wei
+-4.1847\t<s> 梦薇 姐姐\1<s> meng wei jie jie
+-0.8885\t好 想 梦薇\1 hao xiang meng wei
+-0.3272\t好想 梦薇 姐姐\1hao xiang meng wei jie jie
+-1.3030\t好 想 梦薇\1hao xiang meng wei
+-0.3590\t好想 梦薇姐姐 </s>\1hao xiang meng wei jie jie </s>
+-0.2190\t好想 梦薇接接 </s>\1hao xiang meng wei jie jie </s>
+-0.2190\t我 好想 接接\1wo hao xiang jie jie
+
+\end\
+
+
